@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data analysis and automation with Python**
 
-- 👨‍💻 All of my projects are **available at right here ;)**
+- 👨‍💻 All of my projects are available **right here ;)**
 
 - 👓 Interesting thing **I'm visually impaired**
 
